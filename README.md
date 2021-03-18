@@ -1,2 +1,2 @@
 # dice_game
-Just basic of HTML,CSS and Javascript
+Just basic Webpage using HTML,CSS and Javascript
